@@ -7,4 +7,7 @@
  <details>
 <summary><h2 align="center">Education</h2></summary>
 <br>
- 
+ | ***Degree***  |    ***Institute***  |  ***Aggregate***  |    ***Session***  |
+| :------: | :-----: | :------: | :-----: |
+|B.A |M.A.M College University of Jammu[JK]    |56%   |   2018-2011|
+    <br/> 
