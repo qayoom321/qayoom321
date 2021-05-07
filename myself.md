@@ -78,6 +78,9 @@ Correspondence Address:</b>
 </ul>
 
 </details>
-<p align="center"> SM Profile
+
+<p align="center"> SM Profile </p>
  
-  <a href="https://twitter.com/home?lang=en"> <img src="https://raw.githubusercontent.com/qayoom321/qayoom321/main/tw.png" /a> </p>
+ <p align="center"> <a href="https://twitter.com/home?lang=en" img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a> </p>
+  
+  
