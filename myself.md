@@ -4,5 +4,7 @@
 <p  align="center">
   To find a challenging position in a rapidly growing IT Organisation.Linux Professional, working in Keen & Able A Red hat partner and open source development organisation. Having three year experience in IT sector on Desktop Support to Network Admin, Linux Administrator.Currently I am working on Devops
   </p>
-  <h2 align="center" EDUCATIONAL </h2>
-  
+ <details>
+<summary><h2 align="center">Education</h2></summary>
+<br>
+ 
