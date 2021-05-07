@@ -1,6 +1,6 @@
 <h2 align='center'> Abdul Qayoom  </h2>
 
- <img src="https://github.com/qayoom321/qayoom321/blob/main/index.png?raw=true">
+<p align="center"> <img src="https://github.com/qayoom321/qayoom321/blob/main/index.png?raw=true"> </p>
  
 <h2 align='center'> Objective </h2>
 <p  align="center">
@@ -29,10 +29,9 @@
 </details>
 
  
-<h2 align="center PERSONAL PROFILE</h2> 
+<h2 align="center"> PERSONAL PROFILE </h2> 
 <details close="close"> 
-                      
-  <summary><b>Personal Details</b></summary>
+<summary><b>Personal Details</b></summary>
 <ul><br/>
 <b>
  
@@ -81,4 +80,4 @@ Correspondence Address:</b>
 </details>
 <p align="center"> SM Profile
  
-  <a href="https://twitter.com/home?lang=en"><img src="https://raw.githubusercontent.com/qayoom321/qayoom321/main/tw.png"/a>
+  <a href="https://twitter.com/home?lang=en"> <img src="https://raw.githubusercontent.com/qayoom321/qayoom321/main/tw.png" /a> </p>
