@@ -5,10 +5,10 @@
  </div>
  
  
-|***SrNo.***| ***Breakdown_of_Incident***  |    ***DETAILS***  |
-| :---: | :------: | :-----: |
-⑴|**Incident Date**                  |               Jan 2020                            |
-|⑵|**Incident Description**           |              Online Shopping With Amazon                      |
+ |***SrNo.***| ***Breakdown_of_Incident***  |    ***DETAILS***  |
+ | :---: | :------: | :-----: |
+⑴|**Incident Date**                   |               Jan 2020                           |
+|⑵|**Incident Description**           |              Online Shopping With Amazon                     |
 |⑶|**Incident Alloted To**            |  [**Amazon**](http://www.amazon.in/)|
 |⑷|**Incident Allotment Date**        |               Jan 2020                          |
 |⑸|**Incident Status**                |                 Resolved                             |
