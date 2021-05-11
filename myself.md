@@ -1,3 +1,5 @@
+<h2 align='center'> Profile  </h2>
+
 <h2 align='center'> Abdul Qayoom  </h2>
 
 <p align="center"> <img src="https://github.com/qayoom321/qayoom321/blob/main/index.png?raw=true"> </p>
@@ -11,8 +13,10 @@
 <summary><h2 align="center">Education</h2></summary>
 <br>
 
-  **BA** from M.A.M College University of Jammu in 2011
-**10+2** Govt Higer Secondry School G.N Jammu 2006
+|***Degree*** | ***School/College*** | ***Year of Passing*** |
+|:------:| :------:|:------:| 
+ |**BA** | M.A.M College University of Jammu | 2011
+|**10+2** | Govt Higer Secondry School G.N Jammu | 2006
 
 </details>
 <details>
