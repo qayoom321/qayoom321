@@ -32,7 +32,25 @@
    <br/>  
 </details>
 
+<details>
+<summary><h2 align="center">Hobby</h2></summary>
+<br>
+ 
+Playing Watching crickrt
+<br>
+ Watching Movies
+ 
+  <br/>  
+</details>
 
+<details>
+<summary><h2 align="center">Language Known</h2></summary>
+<br>
+ 
+English, Urdu,Hindi,Regional
+ 
+  <br/>  
+</details> 
  
 <h2 align="center"> PERSONAL PROFILE </h2> 
 <details close="close"> 
