@@ -85,7 +85,10 @@ Correspondence Address:</b>
 
 
 <h2 align="center"> SM Profile </h2>
- 
-<p align ="center"> <a href="https://twitter.com/home?lang=en"><img src="https://raw.githubusercontent.com/qayoom321/qayoom321/main/tw.png"></a></p>
 
-  
+ 
+<p align ="center"> <a href="https://twitter.com/home?lang=en"><img src="https://raw.githubusercontent.com/qayoom321/qayoom321/main/tw.png"></a>
+<p align ="left"> <a href="https://www.linkedin.com/in/abdul-qayoom-8173a2145/"><img src="https://raw.githubusercontent.com/qayoom321/qayoom321/main/lnd.png"></a>
+ <p align ="right"> <a href="https://myaccount.google.com/?utm_source=account-marketing-page&utm_medium=go-to-account-button&pli=1"><img src="https://raw.githubusercontent.com/qayoom321/qayoom321/main/g.png"></a>
+</p>
+
