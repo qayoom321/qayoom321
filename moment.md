@@ -9,3 +9,7 @@ I like to mention here some of the hardship.
 2 nd was as i was working and studying at jamme away from home,so at tim of exam lot of pressure on me to manage work load and exam.
 So continous with all this I was remain calm and focused with the littlle bit time I was get for study ,and got good reward for this.
 so my 12 class result day was my happiest moment beacuse i passed with good precentage 
+
+<h2 align='center'> Sad Moment  </h2>
+
+<p align="center"> <img src="https://raw.githubusercontent.com/qayoom321/qayoom321/main/sad.jpeg"> </p>
