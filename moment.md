@@ -13,3 +13,13 @@ so my 12 class result day was my happiest moment beacuse i passed with good prec
 <h2 align='center'> Sad Moment  </h2>
 
 <p align="center"> <img src="https://raw.githubusercontent.com/qayoom321/qayoom321/main/sad.jpeg"> </p>
+
+
+The saddest moment in my life was june 5 2011 when my father expire.
+I was in bazar my mother called me and said that my father is not well.
+I immedetly went at my room and thought to went home and also enquire father helth from brother.
+When i was getting ready for home my brother called me and said our father left us.
+It was shocked moment ,I fell I lost everything in the world and still feeling pain of that moment.
+
+
+<h2 align='center'> Thank You  </h2>
