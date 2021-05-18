@@ -13,9 +13,6 @@
 |⑷|**Incident Allotment Date**        |               Jan 2020                          |
 |⑸|**Incident Status**                |                 Resolved                             |
 |⑹|**Incident Resolution Date**       |                Jan 2020                              |
-|⑺|**Incident Experience**            |                  ⭐⭐⭐⭐                      |        
-|⑻|**Description** |I had already experince of shopping with amazon ,but my previous experince was with cash on delivery.
-At january 2020 I have choose redmi 8 pro with discount price.I have compare price with flipkart and other and there price is very highas compare with amazon.
-So i have no option and book the mobile with advance payment with debit card.I am very confused if i get the mobile or not and if I get anything else in place of mobile.But I received my order after two days of booking instead of one week.
-I recommend every one must try amazon once.|
+|⑺|**Incident Experience**            |                  Very Good                     |        
+|⑻|**Description**|I had already experince of shopping with amazon ,but my previous experince was with cash on delivery.At january 2020 I have choose redmi 8 pro with discount price.I have compare price with flipkart and other and there price is very highas compare with amazon.So i have no option and book the mobile with advance payment with debit card.I am very confused if i get the mobile or not and if I get anything else in place of mobile.But I received my order after two days of booking instead of one week.**I recommend every one must try amazon once**.|
 ****
