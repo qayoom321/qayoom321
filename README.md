@@ -3,7 +3,7 @@
 
 ### Hi Visitor I am Abdul Qayoom 
 
-<img src="https://github.com/qayoom321/qayoom321/blob/main/dev.jpeg" alt="Hello world">
+<img src="https://github.com/qayoom321/qayoom321/blob/main/dev.jpeg" >
 
 
 <!--
