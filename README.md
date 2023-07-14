@@ -10,6 +10,32 @@ A DevOpsgear Engineer. Having 5+ years experince on CI/CD,Monitoring tool,Contai
 <br >
 <br />
 
+# Skill Set
+I have experince on 
+Linux,Application like apache,tomccat,nginx,jboss,wildfly,container tool like docker,podman,kubernetes
+Monitoring tool like,nagios,grafana,promethus,expoerte,snmp,wireshark,tcpdump,automation tool,ansible,terraform
+
+<br >
+<br />
+
+# Qualification
+Greaduate from University of Jammu
+<br >
+<br />
+
+# Current Employee
+Keen & Able Computer PVT LTD
+<br >
+<br />
+
+# Current Project
+Fino Bank 
+Location Mumbai
+<br >
+<br />
+
+
+
 
 
 <!--
