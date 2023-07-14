@@ -3,10 +3,7 @@
 
 ### Hi Visitor I am Abdul Qayoom 
 
-👋 Hi,  Abdul Qayoom
-</h2></p>
-
-<p align="center">
+<img src="https://github.com/qayoom321/qayoom321/blob/main/dev.jpeg" alt="Hello world">
 
 
 <!--
