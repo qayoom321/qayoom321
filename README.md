@@ -1,7 +1,13 @@
 <p align="center">
 <h2 align="center">
 
-### Hi Visitor I am Abdul Qayoom 👋
+### Hi Visitor I am Abdul Qayoom 
+
+👋 Hi,  Abdul Qayoom
+</h2></p>
+
+<p align="center">
+
 
 <!--
 **qayoom321/qayoom321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
