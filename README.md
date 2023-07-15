@@ -18,11 +18,6 @@ Monitoring tool like,nagios,grafana,promethus,expoerte,snmp,wireshark,tcpdump,au
 <br >
 <br />
 
-# Qualification
-Greaduate from University of Jammu
-<br >
-<br />
-
 # Current Employee
 Keen & Able Computer PVT LTD
 <br >
@@ -33,6 +28,93 @@ Fino Bank
 Location Mumbai
 <br >
 <br />
+<details>
+ 
+<summary><h2 align="center">Education</h2></summary>
+<br>
+|***Degree*** | ***School/College*** | ***Year of Passing*** |
+|:------:| :------:|:------:| 
+ |**BA** | M.A.M College University of Jammu | 2011
+|**10+2** | Govt Higer Secondry School G.N Jammu | 2006
+</details>
+<details>
+<summary><h2 align="center">Experince</h2></summary>
+<br>
+ 
+ | ***Company***  |    ***Address***  |  ***Role***  |    ***From To***  |
+| :------: | :-----: | :------: | :-----: |
+1.Access | Maloofa Complex Kunjwani Jammu J&K | Desktop Support | Jan 2011 To March 2013
+2.Two Dot Global | G-172 Sector 63 Noida | Tech-Support Desktop Support | March 2016 To march 2017
+3.Keen & Able  | B-149 Sector 63 Noida | Linux Engineer 
+ 
+   <br/>  
+</details>
+
+<details>
+<summary><h2 align="center">Hobby</h2></summary>
+<br>
+
+Playing Watching crickrt
+<br>
+ Watching Movies
+
+  <br/>  
+</details>
+
+<details>
+<summary><h2 align="center">Language Known</h2></summary>
+<br>
+
+English, Urdu,Hindi,Regional
+
+  <br/>  
+</details> 
+
+<h2 align="center"> PERSONAL PROFILE </h2> 
+<details close="close"> 
+<summary><b>Personal Details</b></summary>
+<ul><br/>
+<b>
+ 
+  Father's Name: </b>
+   
+```sh
+   Wazir Hussain
+  ```
+  <b>
+ 
+Date Of Birth: </b>
+ ```sh
+ 7th March 1982
+  ```
+  <b>
+ 
+Marital Status: </b>
+   ```sh
+ married
+  ```
+ <b> 
+ 
+Languages: </b>
+   ```sh
+ English,Urdu,Regional
+  ```
+  <b>
+ 
+Correspondence Address:</b>
+```sh
+ House No.7, Morna (Near MITR) Noida Sector 35, UP-201301
+  ```
+  <b>
+ 
+  Permanent Address: </b>
+  ```sh
+  Village Gurdhan Bala District/Tehsil Rajouri JK 185131
+  ```
+</ul>
+</details>
+
+
 
 <h2 align="center"> SM Profile </h2>
 
