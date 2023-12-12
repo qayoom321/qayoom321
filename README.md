@@ -39,7 +39,7 @@ Location Mumbai
 </details>
 <details>
 <summary><h2 align="center">Experince</h2></summary>
-<br>
+<br/>
  
  | ***Company***  |    ***Address***  |  ***Role***  |    ***From To***  |
 | :------: | :-----: | :------: | :-----: |
